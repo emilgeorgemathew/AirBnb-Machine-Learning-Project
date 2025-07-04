@@ -151,9 +151,6 @@ The ensemble captures non-linear relationships and boosts generalization by comb
 * `Group15_BUDT758T_Final_Report.pdf`: Complete report with graphs, methodology, and results
 * `high_booking_rate_group15.csv`: Final predictions on test data
 
-📄 [View Final Report (PDF)](Group15_BUDT758T_Final_Report.pdf)
-📘 [Browse the Notebook on nbviewer](https://nbviewer.org/github/yourusername/yourrepo/blob/main/Final%20Code.ipynb)
-
 ## Getting Started
 
 Clone the repository and install the required packages:
