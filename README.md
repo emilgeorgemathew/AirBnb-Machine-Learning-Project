@@ -1,10 +1,4 @@
 # Airbnb Booking Rate Prediction
-
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Model Type](https://img.shields.io/badge/model-stacking%20ensemble-success)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-
 This repository contains the code and final report for a machine learning project predicting the likelihood of an Airbnb listing achieving a **high booking rate**. Developed for **BUDT 758T: Business Analytics Capstone** at the **Robert H. Smith School of Business, University of Maryland**, this project combines business impact with advanced machine learning to deliver actionable insights for Airbnb stakeholders.
 
 ## Table of Contents
