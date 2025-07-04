@@ -169,6 +169,6 @@ The ensemble captures non-linear relationships and boosts generalization by comb
 
 *Developed for BUDT 758T at the University of Maryland, Robert H. Smith School of Business.*
 
-Disclaimer
+**Disclaimer**
 *If you're a future student of BUDT 758T and you've found this repository, you'll find everything you need to understand and complete the project. That said, we encourage you to make a genuine effort to learn and build your own solution—this project is an opportunity to grow valuable skills that you’ll use in the real world.*
 
