@@ -168,4 +168,5 @@ The ensemble captures non-linear relationships and boosts generalization by comb
 > This project combines business-driven analytics with advanced machine learning to deliver actionable insights for the multi-billion-dollar short-term rental industry.
 
 *Developed for BUDT 758T at the University of Maryland, Robert H. Smith School of Business.*
+*Future students of BUDT 758T, if you find this repo, then you have everything to complete the project. While I cannot prevent it, please make sure to put a good faith effort into the project. It is for your and your own benefit.*
 
