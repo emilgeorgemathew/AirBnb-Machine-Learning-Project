@@ -1,6 +1,22 @@
 # Airbnb Booking Rate Prediction
 This repository contains the code and final report for a machine learning project predicting the likelihood of an Airbnb listing achieving a **high booking rate**. Developed for **BUDT 758T: MS Business Analytics - Data Mining and Predictive Analytics** at the **Robert H. Smith School of Business, University of Maryland**, this project combines business impact with advanced machine learning to deliver actionable insights for Airbnb stakeholders.
 
+## Getting Started
+
+Clone the repository and install the required packages:
+
+```bash
+git clone https://github.com/yourusername/airbnb-booking-rate-prediction.git
+cd airbnb-booking-rate-prediction
+pip install -r requirements.txt
+```
+
+To run the notebook:
+
+```bash
+jupyter notebook "Final Code.ipynb"
+```
+
 ## Table of Contents
 
 * [Business Value and Impact](#business-value-and-impact)
@@ -12,7 +28,6 @@ This repository contains the code and final report for a machine learning projec
 * [Key Takeaways and Recommendations](#key-takeaways-and-recommendations)
 * [Team Contributions](#team-contributions)
 * [Repository Contents](#repository-contents)
-* [Getting Started](#getting-started)
 
 ## Business Value and Impact
 
@@ -148,21 +163,6 @@ The ensemble captures non-linear relationships and boosts generalization by comb
 * `Group15_BUDT758T_Final_Report.pdf`: Complete report with graphs, methodology, and results
 * `high_booking_rate_group15.csv`: Final predictions on test data
 
-## Getting Started
-
-Clone the repository and install the required packages:
-
-```bash
-git clone https://github.com/yourusername/airbnb-booking-rate-prediction.git
-cd airbnb-booking-rate-prediction
-pip install -r requirements.txt
-```
-
-To run the notebook:
-
-```bash
-jupyter notebook "Final Code.ipynb"
-```
 ---
 
 > This project combines business-driven analytics with advanced machine learning to deliver actionable insights for the multi-billion-dollar short-term rental industry.
