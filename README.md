@@ -1,4 +1,4 @@
-# Airbnb Booking Rate Prediction
+# Airbnb Machine Learning Project - High Booking Rate Prediction
 This repository contains the code and final report for a machine learning project predicting the likelihood of an Airbnb listing achieving a **high booking rate**. Developed for **BUDT 758T: MS Business Analytics - Data Mining and Predictive Analytics** at the **Robert H. Smith School of Business, University of Maryland**, this project combines business impact with advanced machine learning to deliver actionable insights for Airbnb stakeholders.
 
 ## Getting Started
