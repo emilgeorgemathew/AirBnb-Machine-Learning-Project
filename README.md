@@ -13,7 +13,6 @@ This repository contains the code and final report for a machine learning projec
 * [Team Contributions](#team-contributions)
 * [Repository Contents](#repository-contents)
 * [Getting Started](#getting-started)
-* [License](#license)
 
 ## Business Value and Impact
 
@@ -35,8 +34,6 @@ We framed this problem as a **binary classification task**, predicting whether a
 * Model overfitting
 
 The final model is a **stacked ensemble (XGBoost + CatBoost + Logistic Regression meta-learner)** achieving an **AUC of 0.9166** and **Accuracy of 87.30%** on the test set.
-
-![Stacking Ensemble Architecture](images/stacking_architecture.png)
 
 ## Data Description
 
